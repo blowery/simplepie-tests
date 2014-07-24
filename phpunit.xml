@@ -1,0 +1,7 @@
+<phpunit>
+	<testsuites>
+		<testsuite name="simplepie-validation">
+			<directory>tests</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>
