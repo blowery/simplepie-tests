@@ -1,6 +1,6 @@
 {
 	"require": {
-		"phpunit/phpunit": "4.1.*",
+		"phpunit/phpunit": "3.7.*",
 		"simplepie/simplepie": "1.3.*"
 	}
 }
