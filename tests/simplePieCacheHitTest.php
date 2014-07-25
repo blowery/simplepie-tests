@@ -18,13 +18,13 @@ class SimplePieCacheHitTest extends PHPUnit_Framework_TestCase {
 	protected function setUp() {
 		MemoryCache::clear();
 		$pieMiss = $this->defaultPie();
-		$pieMiss->set_feed_url( "http://blowery.org" );
+		$pieMiss->set_feed_url( "http://localhost:9998/single/" );
 		$pieMiss->init();
 
 		$this->assertNotEmpty( $pieMiss->raw_data, "Cache Miss should have raw data" );
 
 		$pieHit = $this->defaultPie();
-		$pieHit->set_feed_url( "http://blowery.org" );
+		$pieHit->set_feed_url( "http://localhost:9998/single/" );
 		$pieHit->init();
 
 		$this->pieMiss = $pieMiss;

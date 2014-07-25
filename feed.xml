@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ben lowery</title>
+	<atom:link href="http://blowery.org/feed/" rel="self" type="application/rss+xml" />
+	<link>http://blowery.org</link>
+	<description>this is my blog where i blog</description>
+	<lastBuildDate>Thu, 10 Jul 2014 14:55:40 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<atom:link rel='hub' href='http://blowery.org/?pushpress=hub'/>
+	<item>
+		<title>WTF &rsquo; man</title>
+		<link>http://blowery.org/2014/07/10/wtf-rsquo-man/</link>
+		<comments>http://blowery.org/2014/07/10/wtf-rsquo-man/#comments</comments>
+		<pubDate>Thu, 10 Jul 2014 14:55:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Etc]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1517</guid>
+		<description><![CDATA[little test to see how we deal with crap in the title<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2008/07/10/pickin-grinin/" rel="bookmark" title="Pickin&rsquo; &amp; Grinin&rsquo;">Pickin&rsquo; &amp; Grinin&rsquo; </a></li>
+<li><a href="http://blowery.org/2004/01/02/a-test/" rel="bookmark" title="A Test">A Test </a></li>
+<li><a href="http://blowery.org/2005/04/26/so-hot-right-now/" rel="bookmark" title="So Hot Right Now">So Hot Right Now </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>little test to see how we deal with crap in the title</p>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2008/07/10/pickin-grinin/" rel="bookmark" title="Pickin&rsquo; &amp; Grinin&rsquo;">Pickin&rsquo; &amp; Grinin&rsquo; </a></li>
+<li><a href="http://blowery.org/2004/01/02/a-test/" rel="bookmark" title="A Test">A Test </a></li>
+<li><a href="http://blowery.org/2005/04/26/so-hot-right-now/" rel="bookmark" title="So Hot Right Now">So Hot Right Now </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2014/07/10/wtf-rsquo-man/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NYC</title>
+		<link>http://blowery.org/2014/07/02/nyc/</link>
+		<comments>http://blowery.org/2014/07/02/nyc/#comments</comments>
+		<pubDate>Wed, 02 Jul 2014 15:48:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Etc]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1514</guid>
+		<description><![CDATA[It is hot.<div class='yarpp-related-rss yarpp-related-none'>
+
+No related posts.
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>It is hot.</p>
+<div class='yarpp-related-rss yarpp-related-none'>
+<p>No related posts.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2014/07/02/nyc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fri 13?</title>
+		<link>http://blowery.org/2014/06/13/fri-13/</link>
+		<comments>http://blowery.org/2014/06/13/fri-13/#comments</comments>
+		<pubDate>Fri, 13 Jun 2014 18:38:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Etc]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1511</guid>
+		<description><![CDATA[I own a black cat. Not a big deal.<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2008/11/25/black-friday-amazon/" rel="bookmark" title="Black Friday @ Amazon">Black Friday @ Amazon </a></li>
+<li><a href="http://blowery.org/2008/07/10/pickin-grinin/" rel="bookmark" title="Pickin&rsquo; &amp; Grinin&rsquo;">Pickin&rsquo; &amp; Grinin&rsquo; </a></li>
+<li><a href="http://blowery.org/2008/07/17/linus-on-openbsd/" rel="bookmark" title="Linus on OpenBSD">Linus on OpenBSD </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>I own a black cat. Not a big deal.</p>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2008/11/25/black-friday-amazon/" rel="bookmark" title="Black Friday @ Amazon">Black Friday @ Amazon </a></li>
+<li><a href="http://blowery.org/2008/07/10/pickin-grinin/" rel="bookmark" title="Pickin&rsquo; &amp; Grinin&rsquo;">Pickin&rsquo; &amp; Grinin&rsquo; </a></li>
+<li><a href="http://blowery.org/2008/07/17/linus-on-openbsd/" rel="bookmark" title="Linus on OpenBSD">Linus on OpenBSD </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2014/06/13/fri-13/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Net Neutrality</title>
+		<link>http://blowery.org/2014/06/02/net-neutrality/</link>
+		<comments>http://blowery.org/2014/06/02/net-neutrality/#comments</comments>
+		<pubDate>Mon, 02 Jun 2014 19:46:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Etc]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1508</guid>
+		<description><![CDATA[Watch.<div class='yarpp-related-rss yarpp-related-none'>
+
+No related posts.
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/fpbOEoRrHyU?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p>Watch.</p>
+<div class='yarpp-related-rss yarpp-related-none'>
+<p>No related posts.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2014/06/02/net-neutrality/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Still alive</title>
+		<link>http://blowery.org/2014/01/27/still-alive/</link>
+		<comments>http://blowery.org/2014/01/27/still-alive/#comments</comments>
+		<pubDate>Mon, 27 Jan 2014 20:23:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Work]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1502</guid>
+		<description><![CDATA[&#160; Just been super busy lately. Flew to Austin for an on-site with my compatriots at Demand and attended AustinJS (my first) and met a bunch of interesting people. Good times. Also, Chris &#38; John over at Lost Art Press just flipped the switch on their new store, which I helped out with a bit. [&#8230;]<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2007/11/28/book-presses-are-awesome/" rel="bookmark" title="Book Presses Are Awesome">Book Presses Are Awesome </a></li>
+<li><a href="http://blowery.org/2012/03/29/linkage-march-26th-2012-to-march-29th-2012/" rel="bookmark" title="Linkage: March 26th, 2012 to March 29th, 2012">Linkage: March 26th, 2012 to March 29th, 2012 </a></li>
+<li><a href="http://blowery.org/2008/04/08/free-samples-of-new-starbucks-roast-today-at-noon-edt/" rel="bookmark" title="Free samples of new Starbucks roast today at noon EDT">Free samples of new Starbucks roast today at noon EDT </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Just been super busy lately. Flew to Austin for an on-site with my compatriots at Demand and attended <a href="http://austinjavascript.com/">AustinJS</a> (my first) and met a bunch of interesting people. Good times.</p>
+<p>Also, Chris &amp; John over at <a href="http://lostartpress.com/">Lost Art Press</a> just flipped the switch on their new store, which I helped out with a bit. Definitely check it out! It&#8217;s built on Shopify, which is a pretty interesting platform. A bit limiting, but less so than any of the other hosted eComm solutions I&#8217;ve looked at.</p>
+<p>&nbsp;</p>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2007/11/28/book-presses-are-awesome/" rel="bookmark" title="Book Presses Are Awesome">Book Presses Are Awesome </a></li>
+<li><a href="http://blowery.org/2012/03/29/linkage-march-26th-2012-to-march-29th-2012/" rel="bookmark" title="Linkage: March 26th, 2012 to March 29th, 2012">Linkage: March 26th, 2012 to March 29th, 2012 </a></li>
+<li><a href="http://blowery.org/2008/04/08/free-samples-of-new-starbucks-roast-today-at-noon-edt/" rel="bookmark" title="Free samples of new Starbucks roast today at noon EDT">Free samples of new Starbucks roast today at noon EDT </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2014/01/27/still-alive/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A new place for random stuff</title>
+		<link>http://blowery.org/2013/12/02/a-new-place-for-random-stuff/</link>
+		<comments>http://blowery.org/2013/12/02/a-new-place-for-random-stuff/#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 16:44:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Etc]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1497</guid>
+		<description><![CDATA[For a while, I&#8217;ve wanted b19y.com, so I finally got off my butt and made it happen. It&#8217;s a pretty simple tumblr setup that I plan on using a bit like I used this site. Twitter++ as it were.<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2008/04/24/that-random-castle-on-the-island-in-the-hudson-bannermans/" rel="bookmark" title="That random castle on the island in the Hudson (Bannerman&#8217;s)">That random castle on the island in the Hudson (Bannerman&#8217;s) </a></li>
+<li><a href="http://blowery.org/2003/10/10/the-ugly-stick/" rel="bookmark" title="The Ugly Stick">The Ugly Stick </a></li>
+<li><a href="http://blowery.org/2007/10/27/whats-up-with-httpcompress-httpcompressionmodule/" rel="bookmark" title="What&#8217;s up with HttpCompress / HttpCompressionModule?">What&#8217;s up with HttpCompress / HttpCompressionModule? </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p>For a while, I&#8217;ve wanted <a href="http://b19y.com">b19y.com</a>, so I finally got off my butt and made it happen. It&#8217;s a pretty simple tumblr setup that I plan on using a bit like I used this site. Twitter++ as it were.</p>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2008/04/24/that-random-castle-on-the-island-in-the-hudson-bannermans/" rel="bookmark" title="That random castle on the island in the Hudson (Bannerman&#8217;s)">That random castle on the island in the Hudson (Bannerman&#8217;s) </a></li>
+<li><a href="http://blowery.org/2003/10/10/the-ugly-stick/" rel="bookmark" title="The Ugly Stick">The Ugly Stick </a></li>
+<li><a href="http://blowery.org/2007/10/27/whats-up-with-httpcompress-httpcompressionmodule/" rel="bookmark" title="What&#8217;s up with HttpCompress / HttpCompressionModule?">What&#8217;s up with HttpCompress / HttpCompressionModule? </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2013/12/02/a-new-place-for-random-stuff/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Linkage: November 4th, 2013 to November 25th, 2013</title>
+		<link>http://blowery.org/2013/11/26/linkage-november-4th-2013-to-november-25th-2013/</link>
+		<comments>http://blowery.org/2013/11/26/linkage-november-4th-2013-to-november-25th-2013/#comments</comments>
+		<pubDate>Tue, 26 Nov 2013 10:01:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Links]]></category>
+		<category><![CDATA[linkage]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1490</guid>
+		<description><![CDATA[Luigi Prina: The Ships That Sail Through The Clouds &#124; Blinking City This is beautiful- Luigi Prina: The Ships That Sail Through The Clouds via @blinkincity Versioning in a repo I&#039;ve been pondering the right way to deal with version stamping in a source repo. Please comment on the gist. :) The Ox on Vimeo [&#8230;]<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2013/11/04/linkage-september-11th-2013-to-november-3rd-2013/" rel="bookmark" title="Linkage: September 11th, 2013 to November 3rd, 2013">Linkage: September 11th, 2013 to November 3rd, 2013 </a></li>
+<li><a href="http://blowery.org/2013/04/16/linkage-january-11th-2013-to-april-9th-2013/" rel="bookmark" title="Linkage: January 11th, 2013 to April 9th, 2013">Linkage: January 11th, 2013 to April 9th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/06/04/linkage-may-15th-2013-to-june-3rd-2013/" rel="bookmark" title="Linkage: May 15th, 2013 to June 3rd, 2013">Linkage: May 15th, 2013 to June 3rd, 2013 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<dl>
+<dt><a href="http://blinkingcity.com/luigi-prina-ships-sail-clouds/">Luigi Prina: The Ships That Sail Through The Clouds | Blinking City</a></dt>
+<dd>This is beautiful- Luigi Prina: The Ships That Sail Through The Clouds via @blinkincity</dd>
+<dt><a href="https://gist.github.com/nzakas/7633640">Versioning in a repo</a></dt>
+<dd>I&#039;ve been pondering the right way to deal with version stamping in a source repo.   Please comment on the gist. :)</dd>
+<dt><a href="http://vimeo.com/78788086">The Ox on Vimeo</a></dt>
+<dd>@blowery Not sure you&#039;ve seen this but</dd>
+<dt><a href="https://journal.paul.querna.org/articles/2013/11/09/security-of-infrastructure-secrets/">Security of Infrastructure Secrets</a></dt>
+<dd>new blog post: Security of Infrastructure Secrets</dd>
+<dt><a href="http://www.mlive.com/business/ann-arbor/index.ssf/2013/11/seloshevel_gallery_to_close_on.html">Selo/Shevel Gallery to close after 31 years in downtown Ann Arbor | MLive.com</a></dt>
+<dd>RT @annarbornews: Selo/Shevel Gallery to close after 31 years in downtown Ann Arbor</dd>
+</dl>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2013/11/04/linkage-september-11th-2013-to-november-3rd-2013/" rel="bookmark" title="Linkage: September 11th, 2013 to November 3rd, 2013">Linkage: September 11th, 2013 to November 3rd, 2013 </a></li>
+<li><a href="http://blowery.org/2013/04/16/linkage-january-11th-2013-to-april-9th-2013/" rel="bookmark" title="Linkage: January 11th, 2013 to April 9th, 2013">Linkage: January 11th, 2013 to April 9th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/06/04/linkage-may-15th-2013-to-june-3rd-2013/" rel="bookmark" title="Linkage: May 15th, 2013 to June 3rd, 2013">Linkage: May 15th, 2013 to June 3rd, 2013 </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2013/11/26/linkage-november-4th-2013-to-november-25th-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Linkage: September 11th, 2013 to November 3rd, 2013</title>
+		<link>http://blowery.org/2013/11/04/linkage-september-11th-2013-to-november-3rd-2013/</link>
+		<comments>http://blowery.org/2013/11/04/linkage-september-11th-2013-to-november-3rd-2013/#comments</comments>
+		<pubDate>Mon, 04 Nov 2013 10:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Links]]></category>
+		<category><![CDATA[linkage]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1485</guid>
+		<description><![CDATA[Untitled (http://reiddraper.com/writing-simple-check/) I wrote about some of the differences between implementing QuickCheck in Clojure and Haskell: #simple-check DevTools 3min &#8211; YouTube . @campd&#039;s excellent DevTools video, 3min: via @YouTube Twitter / jaythrash: Need a MBP stand? All you need &#8230; Need a MBP stand? All you need is about $3 in PVC parts&#8230; My gif [&#8230;]<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2013/08/08/linkage-july-30th-2013-to-august-8th-2013/" rel="bookmark" title="Linkage: July 30th, 2013 to August 8th, 2013">Linkage: July 30th, 2013 to August 8th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/04/16/linkage-january-11th-2013-to-april-9th-2013/" rel="bookmark" title="Linkage: January 11th, 2013 to April 9th, 2013">Linkage: January 11th, 2013 to April 9th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/06/22/linkage-june-6th-2013-to-june-22nd-2013/" rel="bookmark" title="Linkage: June 6th, 2013 to June 22nd, 2013">Linkage: June 6th, 2013 to June 22nd, 2013 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<dl>
+<dt><a href="http://reiddraper.com/writing-simple-check/">Untitled (http://reiddraper.com/writing-simple-check/)</a></dt>
+<dd>I wrote about some of the differences between implementing QuickCheck in Clojure and Haskell:  #simple-check</dd>
+<dt><a href="http://www.youtube.com/watch?v=k-nVQwADieE&amp;feature=youtu.be">DevTools 3min &#8211; YouTube</a></dt>
+<dd>. @campd&#039;s excellent DevTools video, 3min:   via @YouTube</dd>
+<dt><a href="https://twitter.com/jaythrash/status/384693675457904640/photo/1">Twitter / jaythrash: Need a MBP stand? All you need &#8230;</a></dt>
+<dd>Need a MBP stand? All you need is about $3 in PVC parts&hellip;</dd>
+<dt><a href="https://gist.github.com/SlexAxton/4989674">My gif workflow</a></dt>
+<dd>One of the best screencapture to gif workflows by none other than @slexaxton</dd>
+<dt><a href="http://remysharp.com/2013/09/11/how-i-fixed-an-anonymous-infinite-loop-in-jsbin/">How I fixed an anonymous infinite loop in jsbin</a></dt>
+<dd>How I fixed an *anonymous* infinite loop in @js_bin:  #node #gdb</dd>
+</dl>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2013/08/08/linkage-july-30th-2013-to-august-8th-2013/" rel="bookmark" title="Linkage: July 30th, 2013 to August 8th, 2013">Linkage: July 30th, 2013 to August 8th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/04/16/linkage-january-11th-2013-to-april-9th-2013/" rel="bookmark" title="Linkage: January 11th, 2013 to April 9th, 2013">Linkage: January 11th, 2013 to April 9th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/06/22/linkage-june-6th-2013-to-june-22nd-2013/" rel="bookmark" title="Linkage: June 6th, 2013 to June 22nd, 2013">Linkage: June 6th, 2013 to June 22nd, 2013 </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2013/11/04/linkage-september-11th-2013-to-november-3rd-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Linkage: August 15th, 2013 to August 29th, 2013</title>
+		<link>http://blowery.org/2013/08/30/linkage-august-15th-2013-to-august-29th-2013/</link>
+		<comments>http://blowery.org/2013/08/30/linkage-august-15th-2013-to-august-29th-2013/#comments</comments>
+		<pubDate>Fri, 30 Aug 2013 05:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[Links]]></category>
+		<category><![CDATA[linkage]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1480</guid>
+		<description><![CDATA[Adrienne @ Manchester High School I&#039;m at Manchester High School (Manchester, MI) ECMAScript Internationalization API &#8211; Generated Content by David Storey The new JavaScript internationalization library is very exciting: Rob Conery &#124; Web development with Ruby on Rails, Node, and Whatever Bleeds. Co-owner/Founder of Tekpub, Creator of This Developer&#8217;s Life Javascript Frameworks Are Amazing and [&#8230;]<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2013/05/15/linkage-april-20th-2013-to-may-15th-2013/" rel="bookmark" title="Linkage: April 20th, 2013 to May 15th, 2013">Linkage: April 20th, 2013 to May 15th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/07/30/linkage-june-24th-2013-to-july-29th-2013/" rel="bookmark" title="Linkage: June 24th, 2013 to July 29th, 2013">Linkage: June 24th, 2013 to July 29th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/08/08/linkage-july-30th-2013-to-august-8th-2013/" rel="bookmark" title="Linkage: July 30th, 2013 to August 8th, 2013">Linkage: July 30th, 2013 to August 8th, 2013 </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<dl>
+<dt><a href="https://foursquare.com/adriwall/checkin/521fad0011d22ae98a73cbe1?s=6gHNnpJCIC7XYaQ--CIgzOhBsRo&amp;ref=tw">Adrienne @ Manchester High School</a></dt>
+<dd>I&#039;m at Manchester High School (Manchester, MI)</dd>
+<dt><a href="http://generatedcontent.org/post/59403168016/esintlapi">ECMAScript Internationalization API &#8211; Generated Content by David Storey</a></dt>
+<dd>The new JavaScript internationalization library is very exciting:</dd>
+<dt><a href="http://wekeroad.com/2013/08/22/js-frameworks-are-amazing-and-no-one-is-happy">Rob Conery | Web development with Ruby on Rails, Node, and Whatever Bleeds. Co-owner/Founder of Tekpub, Creator of This Developer&#8217;s Life</a></dt>
+<dd>Javascript Frameworks Are Amazing and Nobody is Happy</dd>
+<dt><a href="http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/">XKCD Plots in Matplotlib: Going the Whole Way</a></dt>
+<dd>matplotlib has an &quot;xkcd&quot; plotting style! This is big #python #pylab</dd>
+<dt><a href="http://www.annarbor.com/business-review/the-final-blimpy-burger-all-good-things-come-to-an-end/">The final Blimpy Burger: &#8216;All good things come to an end&#8217;</a></dt>
+<dd>Check out the final Blimpy Burger: &#039;All good things come to an end&#039;</dd>
+</dl>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2013/05/15/linkage-april-20th-2013-to-may-15th-2013/" rel="bookmark" title="Linkage: April 20th, 2013 to May 15th, 2013">Linkage: April 20th, 2013 to May 15th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/07/30/linkage-june-24th-2013-to-july-29th-2013/" rel="bookmark" title="Linkage: June 24th, 2013 to July 29th, 2013">Linkage: June 24th, 2013 to July 29th, 2013 </a></li>
+<li><a href="http://blowery.org/2013/08/08/linkage-july-30th-2013-to-august-8th-2013/" rel="bookmark" title="Linkage: July 30th, 2013 to August 8th, 2013">Linkage: July 30th, 2013 to August 8th, 2013 </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2013/08/30/linkage-august-15th-2013-to-august-29th-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wiring Your House</title>
+		<link>http://blowery.org/2013/08/10/wiring-your-house/</link>
+		<comments>http://blowery.org/2013/08/10/wiring-your-house/#comments</comments>
+		<pubDate>Sun, 11 Aug 2013 02:38:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+				<category><![CDATA[House]]></category>
+
+		<guid isPermaLink="false">http://blowery.org/?p=1477</guid>
+		<description><![CDATA[I&#8217;ve always respected electricians and found the work fascinating, but never really sat down and learned all the ins and outs of how my short-lived electrical engineering education applied to my actual abode. I understand how an outlet works and how electricity flows, but close to nothing about code or safe practices when wiring, or [&#8230;]<div class='yarpp-related-rss'>
+
+Related posts:<ol>
+<li><a href="http://blowery.org/2007/11/29/monitor-mounts-ftw/" rel="bookmark" title="Monitor Mounts FTW">Monitor Mounts FTW </a></li>
+<li><a href="http://blowery.org/2005/09/14/innerhtml-p-ie-bug/" rel="bookmark" title="InnerHTML + P = IE Bug">InnerHTML + P = IE Bug </a></li>
+<li><a href="http://blowery.org/2008/07/30/working-from-home/" rel="bookmark" title="Working From Home">Working From Home </a></li>
+</ol>
+</div>
+]]></description>
+				<content:encoded><![CDATA[<p><iframe style="width: 120px; height: 240px; float: left;" src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=FFFFFF&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=bloweryorg-20&amp;o=1&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=1600852610" height="240" width="320" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>I&#8217;ve always respected electricians and found the work fascinating, but never really sat down and learned all the ins and outs of how my short-lived electrical engineering education applied to my actual abode. I understand how an outlet works and how electricity flows, but close to nothing about code or safe practices when wiring, or any of the little things that any practicing electrician knows.</p>
+<p>I recently purchased a new bandsaw, which has a 220V motor and needs a new 20A dedicated circuit. I&#8217;ve wanted to add outlets in my little basement wood shop, so I figured as long as I needed to add the one outlet, I might as well have an electrician add a subpanel and isolate the shop entirely. That way, if I want to add more outlets or hang better lights or need another 220 in the future, I have a dedicated panel to work from. Not knowing what to look for in a panel or how it was supposed to be wired, or what I could actually do, I started doing some research.</p>
+<p><a href="http://penultimatewoodshop.blogspot.com/">Dyami</a> recommended a book, <a href="http://www.amazon.com/gp/product/1600852610/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1600852610&amp;linkCode=as2&amp;tag=bloweryorg-20">Wiring a House 4th Edition (For Pros By Pros)</a><img style="border: none !important; margin: 0px !important;" alt="" src="http://ir-na.amazon-adsystem.com/e/ir?t=bloweryorg-20&amp;l=as2&amp;o=1&amp;a=1600852610" width="1" height="1" border="0" />, and I now recommend it too. It&#8217;s a very good overview of all of the general wiring you&#8217;ll find in a house, with explanations of the basic code requirements for each part. It does refer to the NEC code for actual guidelines on things like wire gauge, but in general, it&#8217;s fairly self sufficient, and easy to read.</p>
+<p>Definitely pick it up if you have any wiring projects coming up, or want to know what to look for when looking at a possible house to buy.</p>
+<p><small>disclaimer: If you purchase the book via these links, I get a small cut from Amazon for the link. It really is an excellent book, but in no way makes you a licensed electrician. But it will help you know if you&#8217;re dealing with someone reputable.</small></p>
+<div class='yarpp-related-rss'>
+<p>Related posts:<ol>
+<li><a href="http://blowery.org/2007/11/29/monitor-mounts-ftw/" rel="bookmark" title="Monitor Mounts FTW">Monitor Mounts FTW </a></li>
+<li><a href="http://blowery.org/2005/09/14/innerhtml-p-ie-bug/" rel="bookmark" title="InnerHTML + P = IE Bug">InnerHTML + P = IE Bug </a></li>
+<li><a href="http://blowery.org/2008/07/30/working-from-home/" rel="bookmark" title="Working From Home">Working From Home </a></li>
+</ol></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://blowery.org/2013/08/10/wiring-your-house/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

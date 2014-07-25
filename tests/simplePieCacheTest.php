@@ -16,12 +16,12 @@ class SimplePieCacheMissTest extends PHPUnit_Framework_TestCase {
 
 	protected function setUp() {
 		$this->pie = $this->defaultPie();
-		$this->pie->set_feed_url( "http://blowery.org/" );
+		$this->pie->set_feed_url( "http://localhost:9998/single/" );
 		$this->pie->init();
 	}
 
 	public function testHasRightSubscribeUrl() {
-		$this->assertEquals( "http://feeds.blowery.org/blowery", $this->pie->subscribe_url() );
+		$this->assertEquals( "http://localhost:9998/feed/", $this->pie->subscribe_url() );
 	}
 
 	public function testCacheMissHasRawData() {
