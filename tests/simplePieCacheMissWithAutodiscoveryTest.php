@@ -2,7 +2,7 @@
 
 require_once "NullCache.php";
 
-class SimplePieCacheMissTest extends PHPUnit_Framework_TestCase {
+class SimplePieCacheMissWithAutodiscoveryTest extends PHPUnit_Framework_TestCase {
 
 	/** @var SimplePie */
 	private $pie;
@@ -20,8 +20,16 @@ class SimplePieCacheMissTest extends PHPUnit_Framework_TestCase {
 		$this->pie->init();
 	}
 
+	public function testHasNoError() {
+		$this->assertEmpty( $this->pie->error() );
+	}
+
 	public function testHasRightSubscribeUrl() {
 		$this->assertEquals( "http://localhost:9998/feed/", $this->pie->subscribe_url() );
+	}
+
+	public function testHasADiscoveredFeed() {
+		$this->assertEquals(200, $this->pie->all_discovered_feeds[0]->status_code );
 	}
 
 	public function testCacheMissHasRawData() {

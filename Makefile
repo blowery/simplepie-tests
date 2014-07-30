@@ -1,11 +1,11 @@
+test: vendor
+	./test.sh
+
 vendor:
 	composer install;
 
 distclean:
 	rm -rf vendor;
 
-test: vendor
-	test.sh
-
-@PHONY: test
+@PHONY: test distclean
   

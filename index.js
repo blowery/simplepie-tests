@@ -16,15 +16,25 @@ app.get("/", function(req, res) {
 });
 
 app.get("/feed/", function(req, res) {
-	res.type("application/rss+xml").sendfile( "./feed.xml" );
+	res.type("application/rss+xml").sendfile( "./feeds/good-feed.xml" );
 });
 
 app.get("/feed-two/", function(req, res) {
-	res.type("application/rss+xml").sendfile( "./feed.xml" );
+	res.type("application/rss+xml").sendfile( "./feeds/good-feed.xml" );
 });
 
 app.get("/redirect/:how/", function(req, res) {
 	res.redirect(+req.params.how, req.query.href);
+});
+
+app.get("/4xx/:code/", function(req, res) {
+	var status = +req.params.code;
+	res.status(status).send("HTTP " + status + " for you sir.");
+});
+
+app.get("/5xx/:code/", function(req, res) {
+	var status = +req.params.code;
+	res.status(status).send("HTTP " + status + " for you sir.");
 });
 
 app.get("/chain-temp/:id/", function(req, res) {
