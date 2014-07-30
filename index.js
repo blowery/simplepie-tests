@@ -23,6 +23,12 @@ app.get("/feed-two/", function(req, res) {
 	res.type("application/rss+xml").sendfile( "./feeds/good-feed.xml" );
 });
 
+app.get("/feed-slow/", function(req, res) {
+	setTimeout(function() {
+		res.type("application/rss+xml").sendfile( "./feeds/good-feed.xml" );
+	}, 6000);
+});
+
 app.get("/redirect/:how/", function(req, res) {
 	res.redirect(+req.params.how, req.query.href);
 });
